@@ -15,7 +15,7 @@ def logo():
 
    print("""\33[5;32m[+] Author: Mr.ZETH
 [+] Team  : NTB CYBER TEAM
-[+] Github: https://github.com/ZeThAlOnE/Module.git
+[+] Github: https://github.com/ZeThAlOnE/Scan-IP-Website.git
 \33[5;32m""")
 
 logo()
